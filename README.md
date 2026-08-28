@@ -37,13 +37,10 @@ Este repositorio es una pequeña presentación de mi camino dentro del mundo del
 
 ## 🛠️ Stack tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,html,css,linux,bash,vscode,git,github" />
-  <img src="https://images.icon-icons.com/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" width = "60" height = "60">
-</p>
-
-<p align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-claudio-icon-svg-download-png-14551541.png?f=webp&w=512" width = "42"/>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html,mysql,git,github,vscode,bash,ubuntu&perline=12" />
+  </a>
 </p>
 
 
@@ -67,7 +64,7 @@ Estoy enfocándome en fortalecer mis fundamentos antes de saltar a tecnologías 
 
 Una vez consolidados mis fundamentos, quiero explorar:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,spring,docker,postgres,gcp" />
 </p>
 
