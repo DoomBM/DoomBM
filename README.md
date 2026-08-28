@@ -144,6 +144,10 @@ Este perfil representa mi progreso. 📈
   <a href="https://www.instagram.com/bray.mora.52/">
     <img src="https://images.icon-icons.com/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width="50" height="50"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ruizmoralesbrayanjulian@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50"/>
+  </a>
 </p>
 
 <br>
