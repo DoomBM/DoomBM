@@ -151,7 +151,9 @@ Este perfil representa mi progreso. 📈
 <p align="center">
   💻 <b>Code • Learn • Build • Repeat</b> 🚀
 </p>
-## La paz viene dentro. No la busques fuera 🤍
+<p align="center">
+  <i>"La paz viene dentro. No la busques fuera 🤍"</i>
+</p>
 
 <!--
 **DoomBM/DoomBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
