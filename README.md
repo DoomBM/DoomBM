@@ -39,7 +39,7 @@ Este repositorio es una pequeña presentación de mi camino dentro del mundo del
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,mysql,git,github,vscode,bash,ubuntu&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,mysql,git,github,vscode,bash,ubuntu&perline=12" />
   </a>
 </p>
 
